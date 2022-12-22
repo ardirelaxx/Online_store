@@ -12,7 +12,7 @@
     <link href="https://fonts.bunny.net/css?family=Nunito" rel="stylesheet">
     <title>{{ config('app.name', 'Laravel') }}</title>
     <!-- Scripts -->
-    <title>@yield('title', 'Online Store')</title>
+    <title>@yield('title', 'Relaxx.co')</title>
 </head>
 <body>
 
